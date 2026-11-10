@@ -1,0 +1,12 @@
+{
+  "tokenUserBot": [
+    "tkn",
+    ""
+  ],
+  "tokenBot": "tkn",
+  "voiceGuildId": "idvoiceguild",
+  "voiceChannelId": "idvoicechannel",
+  "excludedGuilds": [
+    "youservid"
+  ]
+}
